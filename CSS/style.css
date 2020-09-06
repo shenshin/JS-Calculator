@@ -6,7 +6,7 @@
     padding: 0;
     /* Common rows (buttons) height */
     --gapWidth: 2px;
-    --height: calc((100vh - var(--gapWidth) * 5) / 6.5);
+    --height: calc((85vh - var(--gapWidth) * 5) / 6.5);
 }
 html {
     font-size: calc(var(--height) / 2);
